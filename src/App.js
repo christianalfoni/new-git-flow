@@ -5,7 +5,7 @@ export default function App() {
   return (
     <div className="App">
       <h1>Hello Mip Mop!</h1>
-    <h2>Making another change here</h2>
+    <h2>And I am overriding</h2>
     </div>
   );
 }

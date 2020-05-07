@@ -6,7 +6,7 @@ export default function App() {
     <div className="App">
       <h1>Hello Mip Mop!</h1>
       <h2>Okay, wut?</h2>
-      <h4>I am making a change</h4>
+      <h4>I am making a bkip</h4>
     </div>
   );
 }

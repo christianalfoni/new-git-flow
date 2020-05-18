@@ -1,5 +1,6 @@
 .App {
   opacity: 1;
-  background-color: #EAEAEA;
+  background-color: #eaeaea;
   color: tomato;
+  padding: 4rem;
 }

@@ -4,7 +4,7 @@ import "./styles.css";
 export default function App() {
   return (
     <div className="App">
-      <h1>Hello, Gitglflow, lets see if we can you!</h1>
+      <h1>Hello, Git!</h1>
     </div>
   );
 }

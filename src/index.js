@@ -3,8 +3,6 @@ import ReactDOM from "react-dom";
 
 import App from "./App";
 
-console.log("Hey");
-
 const rootElement = document.getElementById("root");
 ReactDOM.render(
   <React.StrictMode>
